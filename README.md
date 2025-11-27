@@ -1,12 +1,16 @@
-Hi, I'm Mohamed Tawfiq
-Software Engineer • Full-Stack Developer • Database Designer
+
+## 👋 Hi, I'm Mohamed Tawfiq
+
+## Software Engineer • Full-Stack Developer • Database Designer
 
 I'm a Software Engineer passionate about building clean, scalable web systems with solid backend logic and high-quality database design.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/people/Mohamed-Tawfiq/100042473554508/?rdid=6eOi6KgaFiY6Sagj&share_url=https%253A%252F%252Fwww.facebook.com%252Fshare%252F175EQfk2ex%252F)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-tawfiq-51534831b)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/m7md_t1to)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tawfiq93956)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@MohamedTawfiq-k6y)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedtawfiqprogramer@gmail.com)
 
